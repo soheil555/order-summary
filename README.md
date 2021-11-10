@@ -2,6 +2,4 @@
 
 Responsive Card using Flexbox.
 
-
-
-![](/home/soheil/projects/order-summary-component/images/preview.png)
+![](https://github.com/soheil555/order-summary/blob/main/images/preview.png)
